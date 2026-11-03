@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "9462078e-1160-4913-954a-e296c0be0ca5",
+    "author": "CutLab",
+    "description": {
+        "": "Facade generator: fronts with Blum CLIP top BLUMOTION hinge drilling (cup + EXPANDO dowels), edge banding options, mounting plate drilling."
+    },
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

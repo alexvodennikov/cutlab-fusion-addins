@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "38b65a3f-897d-4a1b-9c9b-b3e6ace87f28",
+    "author": "CutLab",
+    "description": {
+        "": "REJS Ultrabox drawer generator: metal sides, bottom/back/facade panels with drilling, cabinet drilling for runners."
+    },
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "becfc75c-0795-4405-add7-88d7b8b6e78b",
+    "author": "CutLab",
+    "description": {
+        "": "Add Lamello Cabineo 8 pockets and pilots to a seam between two selected faces (official Lamello machining pattern)."
+    },
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

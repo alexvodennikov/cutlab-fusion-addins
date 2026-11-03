@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "dfc8dc78-2e78-4249-808f-da2476cb6c46",
+    "author": "CutLab",
+    "description": {
+        "": "Cabinet generator: sheet-material carcasses with through finger joints for 3-axis CNC, screw pilots in tabs, back panel in grooves."
+    },
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

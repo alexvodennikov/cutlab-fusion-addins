@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "b8b057fe-4538-44c0-adfc-884941afbf67",
+    "author": "CutLab",
+    "description": {
+        "": "Box generator with Lamello Cabineo 8 pockets (official machining pattern), tab joints option, removable magnetic back."
+    },
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
